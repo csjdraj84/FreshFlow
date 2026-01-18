@@ -47,14 +47,14 @@ export function ItemCard({ name, tamilName, imageUrl, selected, onToggle, index,
             </div>
 
             <div className="text-center w-full">
+                <p className="text-sm font-bold text-gray-800 line-clamp-2 leading-tight mb-1">
+                    {name}
+                </p>
                 {tamilName && (
-                    <h3 className="text-lg font-bold text-gray-800 font-tamil mb-1">
+                    <h3 className="text-xs font-medium text-gray-500 font-tamil">
                         {tamilName}
                     </h3>
                 )}
-                <p className="text-sm font-medium text-gray-500 line-clamp-2 leading-tight">
-                    {name}
-                </p>
             </div>
 
             <div className={`

@@ -202,7 +202,7 @@ export default function SelectionGrid({ initialItems, initialOrder }: SelectionG
                     </div>
                 ) : (
                     <div className="flex flex-col gap-2">
-                        {filteredItems.map((item, index) => {
+                        {filteredItems.map((item) => {
                             const isSelected = !!selectedItems[item.name];
                             const quantity = selectedItems[item.name] || 0;
 
@@ -211,8 +211,8 @@ export default function SelectionGrid({ initialItems, initialOrder }: SelectionG
                                     key={item.name}
                                     onClick={() => toggleItem(item.name)}
                                     className={`flex items-center gap-4 p-3 rounded-xl border transition-all cursor-pointer ${isSelected
-                                            ? 'bg-green-50 border-green-200 shadow-sm'
-                                            : 'bg-white border-gray-100 hover:border-green-200 hover:bg-gray-50'
+                                        ? 'bg-green-50 border-green-200 shadow-sm'
+                                        : 'bg-white border-gray-100 hover:border-green-200 hover:bg-gray-50'
                                         }`}
                                 >
                                     <div className="w-12 h-12 bg-gray-100 rounded-lg overflow-hidden shrink-0 border border-gray-200">
@@ -225,7 +225,7 @@ export default function SelectionGrid({ initialItems, initialOrder }: SelectionG
                                     </div>
 
                                     <div className="flex-1 min-w-0">
-                                        <h3 className={`font-semibold text-sm truncate ${isSelected ? 'text-green-800' : 'text-gray-800'}`}>
+                                        <h3 className={`font-bold text-sm truncate ${isSelected ? 'text-green-800' : 'text-gray-800'}`}>
                                             {item.name}
                                         </h3>
                                         {item.tamilName && (

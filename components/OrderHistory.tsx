@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
 import type { Order } from '@/lib/items';
@@ -90,7 +91,7 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                                 Total Items
                             </th>
                             <th className="px-6 align-middle border border-solid py-3 text-xs uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left bg-gray-50 text-gray-500 border-gray-100">
-                                Preview
+                                Updated
                             </th>
                             <th className="px-6 align-middle border border-solid py-3 text-xs uppercase border-l-0 border-r-0 whitespace-nowrap font-semibold text-left bg-gray-50 text-gray-500 border-gray-100">
                                 Action
@@ -105,8 +106,6 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                         ) : (
                             filteredOrders.map((order) => {
                                 const isExpanded = expandedOrderIds.has(order.id);
-                                const previewText = order.items?.slice(0, 3).map(i => i.itemName).join(', ') +
-                                    (order.items && order.items.length > 3 ? `, +${order.items.length - 3} more` : '');
 
                                 return (
                                     <React.Fragment key={order.id}>
@@ -127,8 +126,8 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                                                     {order.totalItems} items
                                                 </span>
                                             </td>
-                                            <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs p-4 text-gray-500 max-w-xs truncate">
-                                                {previewText}
+                                            <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 text-gray-600">
+                                                {formatDate(order.updatedAt)}
                                             </td>
                                             <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4" onClick={(e) => e.stopPropagation()}>
                                                 <div className="flex gap-2 items-center">
@@ -174,8 +173,13 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                                                                 <div key={item.id} className="flex items-center gap-3 p-2 rounded-lg bg-gray-50 border border-gray-100">
                                                                     <div className="w-10 h-10 bg-white rounded-md border border-gray-200 flex items-center justify-center overflow-hidden shrink-0">
                                                                         {item.item?.imageUrl ? (
-                                                                            // eslint-disable-next-line @next/next/no-img-element
-                                                                            <img src={item.item.imageUrl} alt={item.itemName} className="w-full h-full object-cover" />
+                                                                            <Image
+                                                                                src={item.item.imageUrl}
+                                                                                alt={item.itemName}
+                                                                                width={40}
+                                                                                height={40}
+                                                                                className="w-full h-full object-cover"
+                                                                            />
                                                                         ) : (
                                                                             <span className="text-xl">📦</span>
                                                                         )}
