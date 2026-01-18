@@ -1,0 +1,38 @@
+[
+  {
+    "id": 96,
+    "name": "3M™ Scotch-Brite® Tough Clean Scrub Sponge Anti-Bacterial, 4/Pack",
+    "tamilName": "3M™ ஸ்காட்ச்-பிரைட்® டஃப் கிளீன் ஸ்க்ரப் ஸ்பாஞ்ச் ஆன்டி-பாக்டீரியல், 4/பேக்",
+    "imagePath": "/images/products/3m__scotch_brite__tough_clean_scrub_sponge_anti_bacterial__4_pack.jpg",
+    "createdAt": "2026-01-17T16:10:48.305Z",
+    "imageUrl": "/images/products/3m__scotch_brite__tough_clean_scrub_sponge_anti_bacterial__4_pack.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 69,
+    "name": "Amae Australia Cauliflower - Handpicked, 450g",
+    "tamilName": "அமே ஆஸ்திரேலியா காலிஃபிளவர் - 450 கிராம்",
+    "imagePath": "/images/products/amae_australia_cauliflower___handpicked__450g.jpg",
+    "createdAt": "2026-01-17T16:10:48.293Z",
+    "imageUrl": "/images/products/amae_australia_cauliflower___handpicked__450g.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 49,
+    "name": "Amae Bean Sprouts, 300g",
+    "tamilName": "அமே பீன் முளைகள், 300 கிராம்",
+    "imagePath": "/images/products/amae_bean_sprouts__300g.jpg",
+    "createdAt": "2026-01-17T16:10:48.284Z",
+    "imageUrl": "/images/products/amae_bean_sprouts__300g.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 20,
+    "name": "99.99% Germs, 2L + 750ml Free",
+    "tamilName": "99.99% கிருமிகள், 2L + 750ml இலவசம்",
+    "imagePath": "/images/products/99_99__germs__2l___750ml_free.jpg",
+    "createdAt": "2026-01-17T16:10:48.270Z",
+    "imageUrl": "/images/products/99_99__germs__2l___750ml_free.jpg",
+    "quantity": 1
+  }
+]

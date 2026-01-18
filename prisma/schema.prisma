@@ -1,0 +1,35 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Item {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  tamilName String?
+  imagePath String?
+  createdAt DateTime @default(now())
+  orderItems OrderItem[]
+}
+
+model Order {
+  id        Int         @id @default(autoincrement())
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+  totalItems Int
+  items     OrderItem[]
+}
+
+model OrderItem {
+  id        Int      @id @default(autoincrement())
+  orderId   Int
+  order     Order    @relation(fields: [orderId], references: [id])
+  itemId    Int
+  item      Item     @relation(fields: [itemId], references: [id])
+  itemName  String   // Store snapshot of name in case Item is deleted/changed (optional but good)
+  quantity  Int      @default(1)
+}
