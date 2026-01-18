@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1,
+    "name": "Nature's Nutrition Raw Organic Turmeric Powder, 100g",
+    "tamilName": "இயற்கையின் ஊட்டச்சத்து மூல ஆர்கானிக் மஞ்சள் தூள், 100 கிராம்",
+    "imagePath": "/images/products/nature_s_nutrition_raw_organic_turmeric_powder__100g.jpg",
+    "createdAt": "2026-01-17T16:10:48.258Z"
+  },
+  {
+    "id": 2,
+    "name": "Amae Kang Kong, 220g",
+    "tamilName": "அமே காங் காங், 220 கிராம்",
+    "imagePath": "/images/products/amae_kang_kong__220g.jpg",
+    "createdAt": "2026-01-17T16:10:48.260Z"
+  },
+  {
+    "id": 3,
+    "name": "Global Seasons Fuji Apples, 5 Count (China)",
+    "tamilName": "குளோபல் சீசன்ஸ் புஜி ஆப்பிள்கள், 5 எண்ணிக்கை (சீனா)",
+    "imagePath": "/images/products/global_seasons_fuji_apples__5_count__china_.jpg",
+    "createdAt": "2026-01-17T16:10:48.261Z"
+  },
+  {
+    "id": 4,
+    "name": "Amae Large White Flesh Dragonfruit - Handpicked, 2 Count",
+    "tamilName": "அமே பெரிய வெள்ளை சதை டிராகன்ஃப்ரூட் - தேர்ந்தெடுக்கப்பட்ட, 2 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_large_white_flesh_dragonfruit___handpicked__2_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.261Z"
+  },
+  {
+    "id": 5,
+    "name": "Zenxin Organic Carrot, 400g",
+    "tamilName": "ஜென்க்சின் ஆர்கானிக் கேரட், 400 கிராம்",
+    "imagePath": "/images/products/zenxin_organic_carrot__400g.jpg",
+    "createdAt": "2026-01-17T16:10:48.262Z"
+  },
+  {
+    "id": 6,
+    "name": "Super Belgian Premium Potato, 1kg",
+    "tamilName": "சூப்பர் பெல்ஜியன் பிரீமியம் உருளைக்கிழங்கு, 1 கிலோ",
+    "imagePath": "/images/products/super_belgian_premium_potato__1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.262Z"
+  },
+  {
+    "id": 7,
+    "name": "Amae Green Kiwi, 4 Count",
+    "tamilName": "அமே கிரீன் கிவி, 4 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_green_kiwi__4_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.263Z"
+  },
+  {
+    "id": 8,
+    "name": "Amae Handpicked Baby Chye Sim, 350g",
+    "tamilName": "அமே ஹேண்ட்பிக்ட் பேபி சை சிம், 350 கிராம்",
+    "imagePath": "/images/products/amae_handpicked_baby_chye_sim__350g.jpg",
+    "createdAt": "2026-01-17T16:10:48.263Z"
+  },
+  {
+    "id": 9,
+    "name": "Amae Spinach Puay Leng- Handpicked, 250g",
+    "tamilName": "அமே கீரை புவே லெங்- கைத்தேர்ந்தது, 250 கிராம்",
+    "imagePath": "/images/products/amae_spinach_puay_leng__handpicked__250g.jpg",
+    "createdAt": "2026-01-17T16:10:48.264Z"
+  },
+  {
+    "id": 10,
+    "name": "Amae Chinese Parsley (Coriander)- Handpicked, 100g",
+    "tamilName": "அமே சைனீஸ் வோக்கோசு (கொத்தமல்லி)- கைத்தறி, 100 கிராம்",
+    "imagePath": "/images/products/amae_chinese_parsley__coriander___handpicked__100g.jpg",
+    "createdAt": "2026-01-17T16:10:48.264Z"
+  },
+  {
+    "id": 11,
+    "name": "Fungo Organic White Button Mushrooms Punnets, 200g",
+    "tamilName": "ஃபங்கோ ஆர்கானிக் ஒயிட் பட்டன் காளான்கள், 200 கிராம்",
+    "imagePath": "/images/products/fungo_organic_white_button_mushrooms_punnets__200g.jpg",
+    "createdAt": "2026-01-17T16:10:48.265Z"
+  },
+  {
+    "id": 12,
+    "name": "Fresh Produce Blueberry, 125g",
+    "tamilName": "புதிய தயாரிப்பு புளுபெர்ரி, 125 கிராம்",
+    "imagePath": "/images/products/fresh_produce_blueberry__125g.jpg",
+    "createdAt": "2026-01-17T16:10:48.266Z"
+  },
+  {
+    "id": 13,
+    "name": "Fred's Spanish Red Plums, 500g",
+    "tamilName": "ஃப்ரெட்ஸ் ஸ்பானிஷ் ரெட் பிளம்ஸ், 500 கிராம்",
+    "imagePath": "/images/products/fred_s_spanish_red_plums__500g.jpg",
+    "createdAt": "2026-01-17T16:10:48.266Z"
+  },
+  {
+    "id": 14,
+    "name": "Sunny Fruit Fresh Guava, 430g",
+    "tamilName": "சன்னி ஃப்ரூட் ஃப்ரெஷ் கொய்யா, 430 கிராம்",
+    "imagePath": "/images/products/sunny_fruit_fresh_guava__430g.jpg",
+    "createdAt": "2026-01-17T16:10:48.267Z"
+  },
+  {
+    "id": 15,
+    "name": "Glade Aerosol Spray Sakura & Waterlily, 320 milliliters",
+    "tamilName": "கிளேட் ஏரோசல் ஸ்ப்ரே சகுரா & வாட்டர்லிலி, 320 மில்லிலிட்டர்கள்",
+    "imagePath": "/images/products/glade_aerosol_spray_sakura___waterlily__320_milliliters.jpg",
+    "createdAt": "2026-01-17T16:10:48.267Z"
+  },
+  {
+    "id": 16,
+    "name": "Strawberry Australia - Handpicked , 454g",
+    "tamilName": "ஸ்ட்ராபெரி ஆஸ்திரேலியா - தேர்ந்தெடுக்கப்பட்ட 454 கிராம்",
+    "imagePath": "/images/products/strawberry_australia___handpicked___454g.jpg",
+    "createdAt": "2026-01-17T16:10:48.268Z"
+  },
+  {
+    "id": 17,
+    "name": "Fred's Jumbo Spanish Blueberries, 200g",
+    "tamilName": "ஃப்ரெட்ஸ் ஜம்போ ஸ்பானிஷ் ப்ளூபெர்ரி, 200 கிராம்",
+    "imagePath": "/images/products/fred_s_jumbo_spanish_blueberries__200g.jpg",
+    "createdAt": "2026-01-17T16:10:48.268Z"
+  },
+  {
+    "id": 18,
+    "name": "Medella Premium Coconut Organic Cooking Oil, 1.9 L",
+    "tamilName": "மெடெல்லா பிரீமியம் தேங்காய் ஆர்கானிக் சமையல் எண்ணெய், 1.9 எல்",
+    "imagePath": "/images/products/medella_premium_coconut_organic_cooking_oil__1_9_l.jpg",
+    "createdAt": "2026-01-17T16:10:48.269Z"
+  },
+  {
+    "id": 19,
+    "name": "ZENXIN Organic Cabbage, 500g (Packaging may vary)",
+    "tamilName": "ZENXIN ஆர்கானிக் முட்டைக்கோஸ், 500 கிராம் (பேக்கேஜிங் மாறுபடலாம்)",
+    "imagePath": "/images/products/zenxin_organic_cabbage__500g__packaging_may_vary_.jpg",
+    "createdAt": "2026-01-17T16:10:48.269Z"
+  },
+  {
+    "id": 20,
+    "name": "99.99% Germs, 2L + 750ml Free",
+    "tamilName": "99.99% கிருமிகள், 2L + 750ml இலவசம்",
+    "imagePath": "/images/products/99_99__germs__2l___750ml_free.jpg",
+    "createdAt": "2026-01-17T16:10:48.270Z"
+  },
+  {
+    "id": 21,
+    "name": "Crunchy Fresh Japanese Cucumber, 330g",
+    "tamilName": "மொறுமொறுப்பான புதிய ஜப்பானிய வெள்ளரிக்காய், 330 கிராம்",
+    "imagePath": "/images/products/crunchy_fresh_japanese_cucumber__330g.jpg",
+    "createdAt": "2026-01-17T16:10:48.270Z"
+  },
+  {
+    "id": 22,
+    "name": "Fresh Produce Broccoli, 2 Count",
+    "tamilName": "புதிய தயாரிப்பு ப்ரோக்கோலி, 2 எண்ணிக்கை",
+    "imagePath": "/images/products/fresh_produce_broccoli__2_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.271Z"
+  },
+  {
+    "id": 23,
+    "name": "Amae Bottle Gourd, 1 Count",
+    "tamilName": "அமே பாட்டில் பூசணி, 1 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_bottle_gourd__1_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.271Z"
+  },
+  {
+    "id": 24,
+    "name": "Wisebuy Fresh Thai Ginger, 450g",
+    "tamilName": "Wisebuy புதிய தாய் இஞ்சி, 450 கிராம்",
+    "imagePath": "/images/products/wisebuy_fresh_thai_ginger__450g.jpg",
+    "createdAt": "2026-01-17T16:10:48.272Z"
+  },
+  {
+    "id": 25,
+    "name": "Greenfields Fresh Low Fat Milk, 1.89L - Chilled",
+    "tamilName": "கிரீன்ஃபீல்ட்ஸ் புதிய குறைந்த கொழுப்புள்ள பால், 1.89லி - குளிர்ந்தவை",
+    "imagePath": "/images/products/greenfields_low_fat_milk_1.89l.png",
+    "createdAt": "2026-01-17T16:10:48.272Z"
+  },
+  {
+    "id": 26,
+    "name": "French beans, 250g",
+    "tamilName": "பிரஞ்சு பீன்ஸ், 250 கிராம்",
+    "imagePath": "/images/products/french_beans__250g.jpg",
+    "createdAt": "2026-01-17T16:10:48.273Z"
+  },
+  {
+    "id": 27,
+    "name": "Amae Red Onion, Shallot, 500g",
+    "tamilName": "அமே சிவப்பு வெங்காயம், வெங்காயம், 500 கிராம்",
+    "imagePath": "/images/products/amae_red_onion__shallot__500g.jpg",
+    "createdAt": "2026-01-17T16:10:48.273Z"
+  },
+  {
+    "id": 28,
+    "name": "Heartland Whole Garlic 500g",
+    "tamilName": "ஹார்ட்லேண்ட் முழு பூண்டு 500 கிராம்",
+    "imagePath": "/images/products/heartland_whole_garlic_500g.jpg",
+    "createdAt": "2026-01-17T16:10:48.274Z"
+  },
+  {
+    "id": 29,
+    "name": "Glade Air Freshener Spray, Fresh Lemon, 320 ml",
+    "tamilName": "கிளேட் ஏர் ஃப்ரெஷனர் ஸ்ப்ரே, ஃப்ரெஷ் லெமன், 320 மி.லி",
+    "imagePath": "/images/products/glade_air_freshener_spray__fresh_lemon__320_ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.274Z"
+  },
+  {
+    "id": 30,
+    "name": "Fresh Produce Avocado, 4 Count",
+    "tamilName": "புதிய தயாரிப்பு வெண்ணெய், 4 எண்ணிக்கை",
+    "imagePath": "/images/products/fresh_produce_avocado__4_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.275Z"
+  },
+  {
+    "id": 31,
+    "name": "Persil Fibre Intelligent Low Suds Powder Detergent 4.5kg,Green,68638432",
+    "tamilName": "பெர்சில் ஃபைபர் நுண்ணறிவு குறைந்த சுட்ஸ் தூள் சோப்பு 4.5 கிலோ, பச்சை, 68638432",
+    "imagePath": "/images/products/persil_fibre_intelligent_low_suds_powder_detergent_4_5kg_green_68638432.jpg",
+    "createdAt": "2026-01-17T16:10:48.275Z"
+  },
+  {
+    "id": 32,
+    "name": "Ecover Limescale Remover, 500ml",
+    "tamilName": "Ecover Limescale Remover, 500ml",
+    "imagePath": "/images/products/ecover_limescale_remover__500ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.276Z"
+  },
+  {
+    "id": 33,
+    "name": "Fred's Australian Peaches, 500g",
+    "tamilName": "ஃப்ரெட்ஸ் ஆஸ்திரேலிய பீச், 500 கிராம்",
+    "imagePath": "/images/products/fred_s_australian_peaches__500g.jpg",
+    "createdAt": "2026-01-17T16:10:48.276Z"
+  },
+  {
+    "id": 34,
+    "name": "Fred's Red Onions, 1.5kg",
+    "tamilName": "பிரெட் சிவப்பு வெங்காயம், 1.5 கிலோ",
+    "imagePath": "/images/products/fred_s_red_onions__1_5kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.277Z"
+  },
+  {
+    "id": 35,
+    "name": "Amae Tangerine- Handpicked , 1kg",
+    "tamilName": "அமே டேன்ஜரின்- கைத்தேர்ந்தது, 1 கிலோ",
+    "imagePath": "/images/products/amae_tangerine__handpicked___1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.278Z"
+  },
+  {
+    "id": 36,
+    "name": "ZENXIN Organic Long Bean, 180g",
+    "tamilName": "ZENXIN ஆர்கானிக் லாங் பீன், 180 கிராம்",
+    "imagePath": "/images/products/zenxin_organic_long_bean__180g.jpg",
+    "createdAt": "2026-01-17T16:10:48.278Z"
+  },
+  {
+    "id": 37,
+    "name": "Amae Medium-sized Tomato - Handpicked, 900g",
+    "tamilName": "அமே நடுத்தர அளவிலான தக்காளி - 900 கிராம்",
+    "imagePath": "/images/products/amae_medium_sized_tomato___handpicked__900g.jpg",
+    "createdAt": "2026-01-17T16:10:48.278Z"
+  },
+  {
+    "id": 38,
+    "name": "Thygrace Lady Fingers, 200g (packaging may vary)",
+    "tamilName": "தைக்ரேஸ் லேடி ஃபிங்கர்ஸ், 200 கிராம் (பேக்கேஜிங் மாறுபடலாம்)",
+    "imagePath": "/images/products/thygrace_lady_fingers__200g__packaging_may_vary_.jpg",
+    "createdAt": "2026-01-17T16:10:48.279Z"
+  },
+  {
+    "id": 39,
+    "name": "Magiclean Kitchen Cleaner Natural Trg 500ml",
+    "tamilName": "Magiclean Kitchen Cleaner Natural Trg 500ml",
+    "imagePath": "/images/products/magiclean_kitchen_cleaner_natural_trg_500ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.279Z"
+  },
+  {
+    "id": 40,
+    "name": "Cleansers, 3x250g",
+    "tamilName": "சுத்தப்படுத்திகள், 3x250 கிராம்",
+    "imagePath": "/images/products/cleansers__3x250g.jpg",
+    "createdAt": "2026-01-17T16:10:48.280Z"
+  },
+  {
+    "id": 41,
+    "name": "Amae Red Chilli - Handpicked, 200 g",
+    "tamilName": "அமே சிவப்பு மிளகாய் - 200 கிராம்",
+    "imagePath": "/images/products/amae_red_chilli___handpicked__200_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.280Z"
+  },
+  {
+    "id": 42,
+    "name": "LURPAK Spreadable Butter, 500g - Chilled",
+    "tamilName": "LURPAK பரவக்கூடிய வெண்ணெய், 500 கிராம் - குளிரூட்டப்பட்டது",
+    "imagePath": "/images/products/lurpak_spreadable_butter__500g___chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.280Z"
+  },
+  {
+    "id": 43,
+    "name": "Comfort Pure Regular Fabric Softener, 5L",
+    "tamilName": "கம்ஃபோர்ட் பியூர் ரெகுலர் ஃபேப்ரிக் சாஃப்டனர், 5லி",
+    "imagePath": "/images/products/comfort_pure_softener_5l.png",
+    "createdAt": "2026-01-17T16:10:48.281Z"
+  },
+  {
+    "id": 44,
+    "name": "Amae Green Chilli - Handpicked, 200 g",
+    "tamilName": "அமே பச்சை மிளகாய் - கைப்பிடி, 200 கிராம்",
+    "imagePath": "/images/products/amae_green_chilli___handpicked__200_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.282Z"
+  },
+  {
+    "id": 45,
+    "name": "MAGICLEAN Toilet Power Bleach, 500ml (Pack of 3)",
+    "tamilName": "மேஜிக்லீன் டாய்லெட் பவர் ப்ளீச், 500மிலி (பேக் 3)",
+    "imagePath": "/images/products/magiclean_toilet_power_bleach__500ml__pack_of_3_.jpg",
+    "createdAt": "2026-01-17T16:10:48.282Z"
+  },
+  {
+    "id": 46,
+    "name": "Foodsterr Organic Shredded Coconut, 250g",
+    "tamilName": "Foodsterr ஆர்கானிக் துண்டாக்கப்பட்ட தேங்காய், 250 கிராம்",
+    "imagePath": "/images/products/foodsterr_organic_shredded_coconut__250g.jpg",
+    "createdAt": "2026-01-17T16:10:48.283Z"
+  },
+  {
+    "id": 47,
+    "name": "Kleenex Ultra Soft Bath Tissue, 200ct ,(Pack of 20)",
+    "tamilName": "க்ளீனெக்ஸ் அல்ட்ரா சாஃப்ட் பாத் டிஷ்யூ, 200சிடி ,(பேக் ஆஃப் 20)",
+    "imagePath": "/images/products/kleenex_ultra_soft_bath_tissue__200ct___pack_of_20_.jpg",
+    "createdAt": "2026-01-17T16:10:48.283Z"
+  },
+  {
+    "id": 48,
+    "name": "Organic Lacto Whole Chicken, 1.2kg - Chilled",
+    "tamilName": "ஆர்கானிக் லாக்டோ முழு சிக்கன், 1.2 கிலோ - குளிரூட்டப்பட்டது",
+    "imagePath": "/images/products/organic_lacto_whole_chicken__1_2kg___chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.284Z"
+  },
+  {
+    "id": 49,
+    "name": "Amae Bean Sprouts, 300g",
+    "tamilName": "அமே பீன் முளைகள், 300 கிராம்",
+    "imagePath": "/images/products/amae_bean_sprouts__300g.jpg",
+    "createdAt": "2026-01-17T16:10:48.284Z"
+  },
+  {
+    "id": 50,
+    "name": "Fresh Produce Curry Leaves, 50g",
+    "tamilName": "புதிய தயாரிப்பு கறிவேப்பிலை, 50 கிராம்",
+    "imagePath": "/images/products/fresh_produce_curry_leaves__50g.jpg",
+    "createdAt": "2026-01-17T16:10:48.285Z"
+  },
+  {
+    "id": 51,
+    "name": "MILO Australian Recipe Powder Tin, 1.25KG",
+    "tamilName": "MILO ஆஸ்திரேலிய ரெசிபி பவுடர் டின், 1.25KG",
+    "imagePath": "/images/products/milo_australian_recipe_powder_tin__1_25kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.285Z"
+  },
+  {
+    "id": 52,
+    "name": "Amae Red Premium Fuji Apple - Handpicked, 4 Count",
+    "tamilName": "அமே ரெட் பிரீமியம் புஜி ஆப்பிள் - தேர்ந்தெடுக்கப்பட்டது, 4 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_red_premium_fuji_apple___handpicked__4_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.286Z"
+  },
+  {
+    "id": 53,
+    "name": "Amae Bittergourd- Handpicked , 400g",
+    "tamilName": "அமே பிட்டர்கோர்ட்- கைத்தேர்ந்தது, 400 கிராம்",
+    "imagePath": "/images/products/amae_bittergourd__handpicked___400g.jpg",
+    "createdAt": "2026-01-17T16:10:48.286Z"
+  },
+  {
+    "id": 54,
+    "name": "Fortune Extra Smooth Silken Tofu, 300g - Chilled",
+    "tamilName": "பார்ச்சூன் எக்ஸ்ட்ரா ஸ்மூத் சில்கன் டோஃபு, 300 கிராம் - குளிர்ந்தவை",
+    "imagePath": "/images/products/fortune_extra_smooth_silken_tofu__300g___chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.287Z"
+  },
+  {
+    "id": 55,
+    "name": "Fresh Produce White Button Mushroom, 200g",
+    "tamilName": "புதிய தயாரிப்பு வெள்ளை பட்டன் காளான், 200 கிராம்",
+    "imagePath": "/images/products/fresh_produce_white_button_mushroom__200g.jpg",
+    "createdAt": "2026-01-17T16:10:48.287Z"
+  },
+  {
+    "id": 56,
+    "name": "Live Well Lemongrass, 70g",
+    "tamilName": "லைவ் வெல் லெமன்கிராஸ், 70 கிராம்",
+    "imagePath": "/images/products/live_well_lemongrass__70g.jpg",
+    "createdAt": "2026-01-17T16:10:48.287Z"
+  },
+  {
+    "id": 57,
+    "name": "HUP SENG HS Special Cream Cracker, 225g",
+    "tamilName": "HUP SENG HS சிறப்பு கிரீம் கிராக்கர், 225 கிராம்",
+    "imagePath": "/images/products/hup_seng_hs_special_cream_cracker__225g.jpg",
+    "createdAt": "2026-01-17T16:10:48.288Z"
+  },
+  {
+    "id": 58,
+    "name": "Beijing Cabbage 1kg (Malaysia)",
+    "tamilName": "பெய்ஜிங் முட்டைக்கோஸ் 1 கிலோ (மலேசியா)",
+    "imagePath": "/images/products/beijing_cabbage_1kg__malaysia_.jpg",
+    "createdAt": "2026-01-17T16:10:48.288Z"
+  },
+  {
+    "id": 59,
+    "name": "Amae Thailand Baby Corn - Handpicked, 180g",
+    "tamilName": "அமே தாய்லாந்து பேபி கார்ன் - 180 கிராம்",
+    "imagePath": "/images/products/amae_thailand_baby_corn___handpicked__180g.jpg",
+    "createdAt": "2026-01-17T16:10:48.289Z"
+  },
+  {
+    "id": 60,
+    "name": "Traditional Medicinals Organic Ginger Aid, 24.09 g",
+    "tamilName": "பாரம்பரிய மருத்துவங்கள் ஆர்கானிக் இஞ்சி உதவி, 24.09 கிராம்",
+    "imagePath": "/images/products/traditional_medicinals_organic_ginger_aid__24_09_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.289Z"
+  },
+  {
+    "id": 61,
+    "name": "Fresh Produce Premium Australian Carrots, 1Kg",
+    "tamilName": "புதிய தயாரிப்பு பிரீமியம் ஆஸ்திரேலிய கேரட், 1 கிலோ",
+    "imagePath": "/images/products/fresh_produce_premium_australian_carrots__1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.290Z"
+  },
+  {
+    "id": 62,
+    "name": "AMBIKAS Ambikas Idly Rice, 1 kg",
+    "tamilName": "அம்பிகாஸ் அம்பிகாஸ் இட்லி சாதம், 1 கிலோ",
+    "imagePath": "/images/products/ambikas_ambikas_idly_rice__1_kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.290Z"
+  },
+  {
+    "id": 63,
+    "name": "Malika Tamarind Bar Seedless, 500 g",
+    "tamilName": "மாலிகா புளி பட்டை விதையில்லா, 500 கிராம்",
+    "imagePath": "/images/products/malika_tamarind_bar_seedless__500_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.291Z"
+  },
+  {
+    "id": 64,
+    "name": "Baba's Curry Fish Powder Seasoning, 250 g",
+    "tamilName": "பாபாவின் கறி மீன் பொடி தாளிக்க, 250 கிராம்",
+    "imagePath": "/images/products/baba_s_curry_fish_powder_seasoning__250_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.291Z"
+  },
+  {
+    "id": 65,
+    "name": "Zenxin Organic Ginger, 150g",
+    "tamilName": "ஜென்க்சின் ஆர்கானிக் இஞ்சி, 150 கிராம்",
+    "imagePath": "/images/products/zenxin_organic_ginger__150g.jpg",
+    "createdAt": "2026-01-17T16:10:48.292Z"
+  },
+  {
+    "id": 66,
+    "name": "Amae Small Lime, 300g",
+    "tamilName": "அமே சிறிய சுண்ணாம்பு, 300 கிராம்",
+    "imagePath": "/images/products/amae_small_lime__300g.jpg",
+    "createdAt": "2026-01-17T16:10:48.292Z"
+  },
+  {
+    "id": 67,
+    "name": "Malika Fennel Seeds (Mota), 100 g",
+    "tamilName": "மாலிகா வெந்தயம் விதைகள் (மோட்டா), 100 கிராம்",
+    "imagePath": "/images/products/malika_fennel_seeds__mota___100_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.292Z"
+  },
+  {
+    "id": 68,
+    "name": "Robert Timms Freeze Dried Instant Coffee, 200g",
+    "tamilName": "ராபர்ட் டிம்ஸ் ஃப்ரீஸ் ட்ரைடு இன்ஸ்டன்ட் காபி, 200 கிராம்",
+    "imagePath": "/images/products/robert_timms_freeze_dried_instant_coffee__200g.jpg",
+    "createdAt": "2026-01-17T16:10:48.293Z"
+  },
+  {
+    "id": 69,
+    "name": "Amae Australia Cauliflower - Handpicked, 450g",
+    "tamilName": "அமே ஆஸ்திரேலியா காலிஃபிளவர் - 450 கிராம்",
+    "imagePath": "/images/products/amae_australia_cauliflower___handpicked__450g.jpg",
+    "createdAt": "2026-01-17T16:10:48.293Z"
+  },
+  {
+    "id": 70,
+    "name": "San Pellegrino Sparkling Mineral Water, 12's x 1L",
+    "tamilName": "சான் பெல்லெக்ரினோ ஸ்பார்க்லிங் மினரல் வாட்டர், 12's x 1L",
+    "imagePath": "/images/products/san_pellegrino_sparkling_mineral_water__12_s_x_1l.jpg",
+    "createdAt": "2026-01-17T16:10:48.294Z"
+  },
+  {
+    "id": 71,
+    "name": "Wattie's Garden Peas (Frozen Vegetable) 500gm",
+    "tamilName": "வாட்டி கார்டன் பட்டாணி (உறைந்த காய்கறி) 500 கிராம்",
+    "imagePath": "/images/products/wattie_s_garden_peas__frozen_vegetable__500gm.jpg",
+    "createdAt": "2026-01-17T16:10:48.294Z"
+  },
+  {
+    "id": 72,
+    "name": "Ziploc Storage Gallon Bag, 20ct",
+    "tamilName": "ஜிப்லாக் ஸ்டோரேஜ் கேலன் பேக், 20சி.டி",
+    "imagePath": "/images/products/ziploc_storage_gallon_bag__20ct.jpg",
+    "createdAt": "2026-01-17T16:10:48.294Z"
+  },
+  {
+    "id": 73,
+    "name": "Kodomo Baby Wipes Triple Pack, Refreshing, 70ct (Pack of 3) packaging may vary",
+    "tamilName": "Kodomo Baby Wipes Triple Pack, Refreshing, 70ct (Pack of 3) பேக்கேஜிங் மாறுபடலாம்",
+    "imagePath": "/images/products/kodomo_baby_wipes_triple_pack__refreshing__70ct__pack_of_3__packaging_may_vary.jpg",
+    "createdAt": "2026-01-17T16:10:48.295Z"
+  },
+  {
+    "id": 74,
+    "name": "Zenxin Organic French Bean, 170g",
+    "tamilName": "Zenxin ஆர்கானிக் பிரஞ்சு பீன், 170 கிராம்",
+    "imagePath": "/images/products/zenxin_organic_french_bean__170g.jpg",
+    "createdAt": "2026-01-17T16:10:48.295Z"
+  },
+  {
+    "id": 75,
+    "name": "Applied Nutrition Unflavoured Creatine Monohydrate Powder, 250g",
+    "tamilName": "பயன்பாட்டு ஊட்டச்சத்து சுவையற்ற கிரியேட்டின் மோனோஹைட்ரேட் தூள், 250 கிராம்",
+    "imagePath": "/images/products/applied_nutrition_unflavoured_creatine_monohydrate_powder__250g.jpg",
+    "createdAt": "2026-01-17T16:10:48.296Z"
+  },
+  {
+    "id": 76,
+    "name": "Ayam Brand Coconut Milk, 0.33 litre",
+    "tamilName": "அயம் பிராண்ட் தேங்காய் பால், 0.33 லிட்டர்",
+    "imagePath": "/images/products/ayam_brand_coconut_milk__0_33_litre.jpg",
+    "createdAt": "2026-01-17T16:10:48.296Z"
+  },
+  {
+    "id": 77,
+    "name": "BOBO Cooked Fishball, 23 Count - Chilled, 250 g",
+    "tamilName": "BOBO சமைத்த மீன் பந்து, 23 எண்ணிக்கை - குளிர்ந்த, 250 கிராம்",
+    "imagePath": "/images/products/bobo_cooked_fishball__23_count___chilled__250_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.297Z"
+  },
+  {
+    "id": 78,
+    "name": "Fred's Australia Avocado, 3 Pieces, 500g - Chilled",
+    "tamilName": "ஃப்ரெட்டின் ஆஸ்திரேலியா அவகேடோ, 3 துண்டுகள், 500 கிராம் - குளிர்ந்தவை",
+    "imagePath": "/images/products/fred_s_australia_avocado__3_pieces__500g___chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.297Z"
+  },
+  {
+    "id": 79,
+    "name": "ZENXIN Organic Pumpkin, 350g",
+    "tamilName": "ZENXIN ஆர்கானிக் பூசணி, 350 கிராம்",
+    "imagePath": "/images/products/zenxin_organic_pumpkin__350g.jpg",
+    "createdAt": "2026-01-17T16:10:48.298Z"
+  },
+  {
+    "id": 80,
+    "name": "Greenfields UHT Low Fat Milk, 1L (Pack of 12)",
+    "tamilName": "கிரீன்ஃபீல்ட்ஸ் UHT குறைந்த கொழுப்புள்ள பால், 1L (12 பேக்)",
+    "imagePath": "/images/products/greenfields_uht_low_fat_milk__1l__pack_of_12_.jpg",
+    "createdAt": "2026-01-17T16:10:48.298Z"
+  },
+  {
+    "id": 81,
+    "name": "Fresh Produce Lemon, 5 Count",
+    "tamilName": "புதிய உற்பத்தி எலுமிச்சை, 5 எண்ணிக்கை",
+    "imagePath": "/images/products/fresh_produce_lemon__5_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.299Z"
+  },
+  {
+    "id": 82,
+    "name": "Australia's Own Unsweetened Almond Milk 1L",
+    "tamilName": "ஆஸ்திரேலியாவின் சொந்த இனிக்காத பாதாம் பால் 1லி",
+    "imagePath": "/images/products/australia_s_own_unsweetened_almond_milk_1l.jpg",
+    "createdAt": "2026-01-17T16:10:48.299Z"
+  },
+  {
+    "id": 83,
+    "name": "Magiclean Bathroom and Toilet Trigger, 500ml",
+    "tamilName": "Magiclean குளியலறை மற்றும் கழிப்பறை தூண்டுதல், 500ml",
+    "imagePath": "/images/products/magiclean_bathroom_and_toilet_trigger__500ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.300Z"
+  },
+  {
+    "id": 85,
+    "name": "Nutella, 350g",
+    "tamilName": "நுடெல்லா, 350 கிராம்",
+    "imagePath": "/images/products/nutella__350g.jpg",
+    "createdAt": "2026-01-17T16:10:48.301Z"
+  },
+  {
+    "id": 86,
+    "name": "Fortune Tau Kwa, 2 x 225g (Packaging may vary) - Chilled",
+    "tamilName": "Fortune Tau Kwa, 2 x 225g (பேக்கேஜிங் மாறுபடலாம்) - குளிரூட்டப்பட்டது",
+    "imagePath": "/images/products/fortune_tau_kwa__2_x_225g__packaging_may_vary____chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.301Z"
+  },
+  {
+    "id": 87,
+    "name": "Amae Long Bean- Handpicked , 200g",
+    "tamilName": "அமே லாங் பீன் - 200 கிராம்",
+    "imagePath": "/images/products/amae_long_bean__handpicked___200g.jpg",
+    "createdAt": "2026-01-17T16:10:48.301Z"
+  },
+  {
+    "id": 88,
+    "name": "Kleenex Ultra Soft Facial Tissue 2 PLY, Garden, 150 count (Pack of 5)",
+    "tamilName": "க்ளீனெக்ஸ் அல்ட்ரா சாஃப்ட் ஃபேஷியல் டிஷ்யூ 2 PLY, கார்டன், 150 எண்ணிக்கை (பேக் ஆஃப் 5)",
+    "imagePath": "/images/products/kleenex_ultra_soft_facial_tissue_2_ply__garden__150_count__pack_of_5_.jpg",
+    "createdAt": "2026-01-17T16:10:48.302Z"
+  },
+  {
+    "id": 89,
+    "name": "HUP SENG Wholemeal Cracker, 225g",
+    "tamilName": "ஹப் செங் ஹோல்மீல் கிராக்கர், 225 கிராம்",
+    "imagePath": "/images/products/hup_seng_wholemeal_cracker__225g.jpg",
+    "createdAt": "2026-01-17T16:10:48.302Z"
+  },
+  {
+    "id": 90,
+    "name": "Amae Indian Purple Brinjal, 500g",
+    "tamilName": "அமே இந்தியன் பர்பிள் பிரிஞ்சி, 500 கிராம்",
+    "imagePath": "/images/products/amae_indian_purple_brinjal__500g.jpg",
+    "createdAt": "2026-01-17T16:10:48.303Z"
+  },
+  {
+    "id": 91,
+    "name": "Scott Value Multi Purpose Towels, 55ct (Pack of 8)",
+    "tamilName": "ஸ்காட் மதிப்பு பல்நோக்கு துண்டுகள், 55ct (பேக் ஆஃப் 8)",
+    "imagePath": "/images/products/scott_value_multi_purpose_towels__55ct__pack_of_8_.jpg",
+    "createdAt": "2026-01-17T16:10:48.303Z"
+  },
+  {
+    "id": 92,
+    "name": "Kerrygold Garlic & Herbs Butter, 100g - Chilled",
+    "tamilName": "கெரிகோல்ட் பூண்டு & மூலிகைகள் வெண்ணெய், 100 கிராம் - குளிர்ந்தவை",
+    "imagePath": "/images/products/kerrygold_garlic___herbs_butter__100g___chilled.jpg",
+    "createdAt": "2026-01-17T16:10:48.303Z"
+  },
+  {
+    "id": 93,
+    "name": "Malika White Urid Dhal, 1kg",
+    "tamilName": "மலிகா வெள்ளை உரித் தால், 1 கிலோ",
+    "imagePath": "/images/products/malika_white_urid_dhal__1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.304Z"
+  },
+  {
+    "id": 94,
+    "name": "Ground Coriander, 50g",
+    "tamilName": "அரைத்த கொத்தமல்லி, 50 கிராம்",
+    "imagePath": "/images/products/ground_coriander__50g.jpg",
+    "createdAt": "2026-01-17T16:10:48.304Z"
+  },
+  {
+    "id": 95,
+    "name": "Malika White Urid Whole (Gota), 1kg",
+    "tamilName": "மலிகா ஒயிட் யூரிட் ஹோல் (கோட்டா), 1 கிலோ",
+    "imagePath": "/images/products/malika_white_urid_whole__gota___1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.305Z"
+  },
+  {
+    "id": 96,
+    "name": "3M™ Scotch-Brite® Tough Clean Scrub Sponge Anti-Bacterial, 4/Pack",
+    "tamilName": "3M™ ஸ்காட்ச்-பிரைட்® டஃப் கிளீன் ஸ்க்ரப் ஸ்பாஞ்ச் ஆன்டி-பாக்டீரியல், 4/பேக்",
+    "imagePath": "/images/products/3m__scotch_brite__tough_clean_scrub_sponge_anti_bacterial__4_pack.jpg",
+    "createdAt": "2026-01-17T16:10:48.305Z"
+  },
+  {
+    "id": 97,
+    "name": "Kodomo Baby Powder Twinpack, 500grams, 2 Count",
+    "tamilName": "கோடோமோ பேபி பவுடர் ட்வின்பேக், 500 கிராம், 2 எண்ணிக்கை",
+    "imagePath": "/images/products/kodomo_baby_powder_twinpack__500grams__2_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.305Z"
+  },
+  {
+    "id": 98,
+    "name": "Mama Lemon Dishwashing Liquid, 750ml, Lemon Gold",
+    "tamilName": "அம்மா எலுமிச்சை பாத்திரம் கழுவும் திரவம், 750 மில்லி, எலுமிச்சை தங்கம்",
+    "imagePath": "/images/products/mama_lemon_750ml_gold.png",
+    "createdAt": "2026-01-17T16:10:48.306Z"
+  },
+  {
+    "id": 99,
+    "name": "Horse Garbage Bag, 30 x 34inch",
+    "tamilName": "குதிரை குப்பை பை, 30 x 34 இன்ச்",
+    "imagePath": "/images/products/horse_garbage_bag__30_x_34inch.jpg",
+    "createdAt": "2026-01-17T16:10:48.306Z"
+  },
+  {
+    "id": 101,
+    "name": "BABA'S Baba Sambar Mix, 250 g",
+    "tamilName": "பாபாவின் பாபா சாம்பார் கலவை, 250 கிராம்",
+    "imagePath": "/images/products/baba_s_baba_sambar_mix__250_g.jpg",
+    "createdAt": "2026-01-17T16:10:48.307Z"
+  },
+  {
+    "id": 102,
+    "name": "Amae Red Flesh Dragonfruit - Handpicked, 2 Count",
+    "tamilName": "அமே ரெட் பிளெஷ் டிராகன்ஃப்ரூட் - தேர்ந்தெடுக்கப்பட்ட, 2 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_red_flesh_dragonfruit___handpicked__2_count.jpg",
+    "createdAt": "2026-01-17T16:10:48.308Z"
+  },
+  {
+    "id": 103,
+    "name": "Kewpie Half Salad Dressing, 310 ml",
+    "tamilName": "Kewpie Half Salad Dressing, 310 ml",
+    "imagePath": "/images/products/kewpie_half_salad_dressing__310_ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.308Z"
+  },
+  {
+    "id": 104,
+    "name": "Chobani Greek Yogurt Natural Whole Milk 907g",
+    "tamilName": "சோபானி கிரேக்க தயிர் இயற்கை முழு பால் 907 கிராம்",
+    "imagePath": "/images/products/chobani_greek_yogurt_natural_whole_milk_907g.jpg",
+    "createdAt": "2026-01-17T16:10:48.308Z"
+  },
+  {
+    "id": 105,
+    "name": "Kara UHT Coconut Cream Milk Light (Less Fat), 200 ml",
+    "tamilName": "காரா UHT தேங்காய் கிரீம் பால் லைட் (குறைவான கொழுப்பு), 200 மி.லி",
+    "imagePath": "/images/products/kara_uht_coconut_cream_milk_light__less_fat___200_ml.jpg",
+    "createdAt": "2026-01-17T16:10:48.309Z"
+  },
+  {
+    "id": 109,
+    "name": "Amae Handpicked Premium Australia Carrot, 1kg",
+    "tamilName": "அமே கையால் தேர்ந்தெடுக்கப்பட்ட பிரீமியம் ஆஸ்திரேலியா கேரட், 1 கிலோ",
+    "imagePath": "/images/products/amae_handpicked_premium_australia_carrot__1kg.jpg",
+    "createdAt": "2026-01-17T16:10:48.310Z"
+  },
+  {
+    "id": 110,
+    "name": "Dettol Disinfectant Spray 450ml (Crisp Breeze)",
+    "tamilName": "டெட்டால் கிருமிநாசினி ஸ்ப்ரே 450மிலி (கிரிஸ்ப் பிரீஸ்)",
+    "imagePath": "/images/products/dettol_disinfectant_spray_450ml__crisp_breeze_.jpg",
+    "createdAt": "2026-01-17T16:10:48.311Z"
+  },
+  {
+    "id": 111,
+    "name": "BREEZE Liquid Detergent, Fragrance of Comfort, 3.6kg",
+    "tamilName": "BREEZE திரவ சோப்பு, ஆறுதல் வாசனை, 3.6 கிலோ",
+    "imagePath": "/images/products/breeze_liquid_comfort_3.6kg.png",
+    "createdAt": "2026-01-17T16:10:48.312Z"
+  }
+]
