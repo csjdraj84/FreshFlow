@@ -32,10 +32,6 @@ export default async function Home() {
             <OrderHistory orders={orders} />
           </div>
         </div>
-
-        <div className="mt-8 text-center text-gray-400 text-xs">
-          Last Updated: {new Date().toLocaleTimeString()}
-        </div>
       </div>
     </main>
   );
