@@ -67,8 +67,14 @@ export function ManualEntryForm({ onClose }: { onClose: () => void }) {
 
     async function handleSubmit(formData: FormData) {
         setLoading(true);
-        await addItem(formData);
+        const result = await addItem(formData);
         setLoading(false);
+
+        if (result?.error) {
+            alert(`Error: ${result.error}`);
+            return;
+        }
+
         onClose();
     }
 

@@ -53,8 +53,11 @@ export async function addItem(formData: FormData) {
             }
         });
         revalidatePath('/select');
-    } catch (e) {
+    } catch (e: any) {
         console.error("Failed to add item:", e);
-        return { error: "Failed to add item" };
+        if (e.code === 'P2002') {
+            return { error: `Item "${name}" already exists.` };
+        }
+        return { error: "Failed to add item. Please try again." };
     }
 }
