@@ -18,8 +18,14 @@ export interface OrderWithGroceryItems {
 
 export async function saveOrder(items: GroceryItem[], orderId?: number) {
     try {
-        // 1. Save to JSON (Legacy support)
-        fs.writeFileSync(ORDER_FILE, JSON.stringify(items, null, 2));
+        // 1. Save to JSON (Legacy support) - fail silently on Vercel (Read-only FS)
+        try {
+            if (process.env.NODE_ENV !== 'production') {
+                fs.writeFileSync(ORDER_FILE, JSON.stringify(items, null, 2));
+            }
+        } catch (fileError) {
+            console.warn("Could not write local order file (expected on Vercel):", fileError);
+        }
 
         // 2. Save to Database
         if (items.length > 0) {
