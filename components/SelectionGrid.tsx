@@ -118,7 +118,7 @@ export default function SelectionGrid({ initialItems, initialOrder }: SelectionG
                             placeholder="Search..."
                             value={search}
                             onChange={(e) => setSearch(e.target.value)}
-                            className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-green-500 transition-all"
+                            className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-green-500 transition-all text-black"
                         />
                         <span className="absolute left-3 top-3.5 text-gray-400">🔍</span>
                     </div>
