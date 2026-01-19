@@ -1,11 +1,11 @@
 [
   {
-    "id": 95,
-    "name": "3M™ Scotch-Brite® Tough Clean Scrub Sponge Anti-Bacterial, 4/Pack",
-    "tamilName": "3M™ ஸ்காட்ச்-பிரைட்® டஃப் கிளீன் ஸ்க்ரப் ஸ்பாஞ்ச் ஆன்டி-பாக்டீரியல், 4/பேக்",
-    "imagePath": "/images/products/3m__scotch_brite__tough_clean_scrub_sponge_anti_bacterial__4_pack.jpg",
-    "createdAt": "2026-01-19T05:03:38.800Z",
-    "imageUrl": "/images/products/3m__scotch_brite__tough_clean_scrub_sponge_anti_bacterial__4_pack.jpg",
+    "id": 104,
+    "name": "Amae Handpicked Premium Australia Carrot, 1kg",
+    "tamilName": "அமே கையால் தேர்ந்தெடுக்கப்பட்ட பிரீமியம் ஆஸ்திரேலியா கேரட், 1 கிலோ",
+    "imagePath": "/images/products/amae_handpicked_premium_australia_carrot__1kg.jpg",
+    "createdAt": "2026-01-19T05:03:39.364Z",
+    "imageUrl": "/images/products/amae_handpicked_premium_australia_carrot__1kg.jpg",
     "quantity": 1
   },
   {
@@ -15,15 +15,42 @@
     "imagePath": "/images/products/amae_australia_cauliflower___handpicked__450g.jpg",
     "createdAt": "2026-01-19T05:03:37.180Z",
     "imageUrl": "/images/products/amae_australia_cauliflower___handpicked__450g.jpg",
+    "quantity": 2
+  },
+  {
+    "id": 49,
+    "name": "Amae Bean Sprouts, 300g",
+    "tamilName": "அமே பீன் முளைகள், 300 கிராம்",
+    "imagePath": "/images/products/amae_bean_sprouts__300g.jpg",
+    "createdAt": "2026-01-19T05:03:35.889Z",
+    "imageUrl": "/images/products/amae_bean_sprouts__300g.jpg",
     "quantity": 1
   },
   {
-    "id": 20,
-    "name": "99.99% Germs, 2L + 750ml Free",
-    "tamilName": "99.99% கிருமிகள், 2L + 750ml இலவசம்",
-    "imagePath": "/images/products/99_99__germs__2l___750ml_free.jpg",
-    "createdAt": "2026-01-19T05:03:34.050Z",
-    "imageUrl": "/images/products/99_99__germs__2l___750ml_free.jpg",
+    "id": 48,
+    "name": "Organic Lacto Whole Chicken, 1.2kg - Chilled",
+    "tamilName": "ஆர்கானிக் லாக்டோ முழு சிக்கன், 1.2 கிலோ - குளிரூட்டப்பட்டது",
+    "imagePath": "/images/products/organic_lacto_whole_chicken__1_2kg___chilled.jpg",
+    "createdAt": "2026-01-19T05:03:35.811Z",
+    "imageUrl": "/images/products/organic_lacto_whole_chicken__1_2kg___chilled.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 23,
+    "name": "Amae Bottle Gourd, 1 Count",
+    "tamilName": "அமே பாட்டில் பூசணி, 1 எண்ணிக்கை",
+    "imagePath": "/images/products/amae_bottle_gourd__1_count.jpg",
+    "createdAt": "2026-01-19T05:03:34.240Z",
+    "imageUrl": "/images/products/amae_bottle_gourd__1_count.jpg",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "name": "Amae Chinese Parsley (Coriander)- Handpicked, 100g",
+    "tamilName": "அமே சைனீஸ் வோக்கோசு (கொத்தமல்லி)- கைத்தறி, 100 கிராம்",
+    "imagePath": "/images/products/amae_chinese_parsley__coriander___handpicked__100g.jpg",
+    "createdAt": "2026-01-19T05:03:33.392Z",
+    "imageUrl": "/images/products/amae_chinese_parsley__coriander___handpicked__100g.jpg",
     "quantity": 1
   }
 ]

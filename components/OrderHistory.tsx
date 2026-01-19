@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
+
 import type { Order } from '@/lib/items';
 
 interface OrderHistoryProps {
@@ -15,6 +16,7 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
     const [sort, setSort] = useState<'date' | 'items'>('date');
     const [filter, setFilter] = useState('');
     const [expandedOrderIds, setExpandedOrderIds] = useState<Set<number>>(new Set());
+
 
     const toggleExpand = (orderId: number) => {
         const next = new Set(expandedOrderIds);
@@ -160,6 +162,7 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                                                         </svg>
                                                         Delete
                                                     </button>
+
                                                 </div>
                                             </td>
                                         </tr>
@@ -192,9 +195,12 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                                                             ))}
                                                         </div>
                                                     </div>
+
+
                                                 </td>
                                             </tr>
-                                        )}
+                                        )
+                                        }
                                     </React.Fragment>
                                 );
                             })
@@ -202,6 +208,6 @@ export default function OrderHistory({ orders }: OrderHistoryProps) {
                     </tbody>
                 </table>
             </div>
-        </div>
+        </div >
     );
 }
