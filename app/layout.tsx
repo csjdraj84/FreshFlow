@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "FreshFlow",
-  description: "Automate your Amazon Fresh groceries",
+  description: "Order Your Amazon Fresh Groceries",
 };
 
 export default function RootLayout({
