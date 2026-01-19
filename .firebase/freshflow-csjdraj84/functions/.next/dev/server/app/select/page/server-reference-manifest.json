@@ -1,0 +1,80 @@
+{
+  "node": {
+    "00ea844940f1a85356e85d097e710e1aa1761aa46a": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": "[project]/.next-internal/server/app/select/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/actions/items.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getOrders",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "getOrders",
+      "filename": "app/actions/order.ts"
+    },
+    "40976b85472064e65d8389602515c9be77f3d05d79": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": "[project]/.next-internal/server/app/select/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/actions/items.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "deleteOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40a0920276f6df347f647986162d0ad591bc9fb074": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": "[project]/.next-internal/server/app/select/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/actions/items.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "getOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "60f38d9e8bd0f63401948e4a49c31fca27a67c04ec": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": "[project]/.next-internal/server/app/select/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/actions/items.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "saveOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "action-browser"
+      },
+      "exportedName": "saveOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40ae216c821aa6abb0e752848f3c6f20c22941eedf": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": "[project]/.next-internal/server/app/select/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/app/actions/items.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "addItem",
+          "filename": "app/actions/items.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "action-browser"
+      },
+      "exportedName": "addItem",
+      "filename": "app/actions/items.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,3 @@
+module.exports=[88489,a=>{"use strict";var b=a.i(554);a.s([],41618),a.i(41618),a.s(["003df157ada4962c46e438cb8aa409fffff9333f91",()=>b.getOrders,"408dd28efab749e8ec0207f2a76ec39217c0e0c1b0",()=>b.deleteOrder,"40a2c10035d67a6ac16a3267e557e0d18b0f5decd3",()=>b.getOrder,"604f800e84172abc8e56fe61564b7bbabd91705da9",()=>b.saveOrder],88489)}];
+
+//# sourceMappingURL=_next-internal_server_app_page_actions_7c9ed8ac.js.map

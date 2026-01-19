@@ -1,0 +1,65 @@
+{
+  "node": {
+    "00ea844940f1a85356e85d097e710e1aa1761aa46a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getOrders",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getOrders",
+      "filename": "app/actions/order.ts"
+    },
+    "40976b85472064e65d8389602515c9be77f3d05d79": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "deleteOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40a0920276f6df347f647986162d0ad591bc9fb074": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "60f38d9e8bd0f63401948e4a49c31fca27a67c04ec": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/order.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "saveOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "saveOrder",
+      "filename": "app/actions/order.ts"
+    }
+  },
+  "edge": {}
+}

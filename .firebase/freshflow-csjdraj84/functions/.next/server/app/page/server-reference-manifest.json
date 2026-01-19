@@ -1,0 +1,65 @@
+{
+  "node": {
+    "003df157ada4962c46e438cb8aa409fffff9333f91": {
+      "workers": {
+        "app/page": {
+          "moduleId": 88489,
+          "async": false,
+          "exportedName": "getOrders",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getOrders",
+      "filename": "app/actions/order.ts"
+    },
+    "408dd28efab749e8ec0207f2a76ec39217c0e0c1b0": {
+      "workers": {
+        "app/page": {
+          "moduleId": 88489,
+          "async": false,
+          "exportedName": "deleteOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "deleteOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40a2c10035d67a6ac16a3267e557e0d18b0f5decd3": {
+      "workers": {
+        "app/page": {
+          "moduleId": 88489,
+          "async": false,
+          "exportedName": "getOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "getOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "604f800e84172abc8e56fe61564b7bbabd91705da9": {
+      "workers": {
+        "app/page": {
+          "moduleId": 88489,
+          "async": false,
+          "exportedName": "saveOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "saveOrder",
+      "filename": "app/actions/order.ts"
+    }
+  },
+  "edge": {}
+}

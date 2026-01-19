@@ -1,0 +1,12 @@
+module.exports = [
+"[project]/Development/App/app/actions/order.ts [app-ssr] (ecmascript, async loader)", ((__turbopack_context__) => {
+
+__turbopack_context__.v((parentImport) => {
+    return Promise.all([
+  "server/chunks/ssr/Development_App_5e1705cb._.js"
+].map((chunk) => __turbopack_context__.l(chunk))).then(() => {
+        return parentImport("[project]/Development/App/app/actions/order.ts [app-ssr] (ecmascript)");
+    });
+});
+}),
+];

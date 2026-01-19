@@ -1,0 +1,80 @@
+{
+  "node": {
+    "003df157ada4962c46e438cb8aa409fffff9333f91": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": 12090,
+          "async": false,
+          "exportedName": "getOrders",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "getOrders",
+      "filename": "app/actions/order.ts"
+    },
+    "408dd28efab749e8ec0207f2a76ec39217c0e0c1b0": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": 12090,
+          "async": false,
+          "exportedName": "deleteOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "deleteOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40a2c10035d67a6ac16a3267e557e0d18b0f5decd3": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": 12090,
+          "async": false,
+          "exportedName": "getOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "rsc"
+      },
+      "exportedName": "getOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "604f800e84172abc8e56fe61564b7bbabd91705da9": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": 12090,
+          "async": false,
+          "exportedName": "saveOrder",
+          "filename": "app/actions/order.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "action-browser"
+      },
+      "exportedName": "saveOrder",
+      "filename": "app/actions/order.ts"
+    },
+    "40e77819eef9e467b67a8f576cd66912b41758e37b": {
+      "workers": {
+        "app/select/page": {
+          "moduleId": 12090,
+          "async": false,
+          "exportedName": "addItem",
+          "filename": "app/actions/items.ts"
+        }
+      },
+      "layer": {
+        "app/select/page": "action-browser"
+      },
+      "exportedName": "addItem",
+      "filename": "app/actions/items.ts"
+    }
+  },
+  "edge": {}
+}
