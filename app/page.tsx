@@ -3,6 +3,8 @@ import { getOrders } from '@/app/actions/order';
 import OrderHistory from '@/components/OrderHistory';
 import { Logo } from '@/components/Logo';
 
+export const dynamic = 'force-dynamic';
+
 export default async function Home() {
   const orders = await getOrders();
 
