@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { addItem } from '@/app/actions/items';
+import { Spinner } from '@/components/ui/Spinner';
 
 export function ManualEntryForm({ onClose }: { onClose: () => void }) {
     const [loading, setLoading] = useState(false);
@@ -123,13 +124,14 @@ export function ManualEntryForm({ onClose }: { onClose: () => void }) {
                         <button
                             type="submit"
                             disabled={loading || processingImage}
-                            className="px-4 py-2 bg-green-600 text-white font-medium rounded-lg hover:bg-green-700 disabled:opacity-50"
+                            className="px-4 py-2 bg-green-600 text-white font-medium rounded-lg hover:bg-green-700 disabled:opacity-50 flex items-center gap-2"
                         >
-                            {loading || processingImage ? 'Processing...' : 'Add Item'}
+                            {(loading || processingImage) && <Spinner size="sm" className="text-white" />}
+                            {loading ? 'Adding...' : processingImage ? 'Processing...' : 'Add Item'}
                         </button>
                     </div>
                 </form>
-            </div >
-        </div >
+            </div>
+        </div>
     );
 }
