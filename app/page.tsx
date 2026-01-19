@@ -3,6 +3,7 @@ import { getOrders } from '@/app/actions/order';
 import OrderHistory from '@/components/OrderHistory';
 import { Logo } from '@/components/Logo';
 
+// Force dynamic rendering to ensure fresh data on every request
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
@@ -31,6 +32,7 @@ export default async function Home() {
             <OrderHistory orders={orders} />
           </div>
         </div>
+
         <div className="mt-8 text-center text-gray-400 text-xs">
           Last Updated: {new Date().toLocaleTimeString()}
         </div>
